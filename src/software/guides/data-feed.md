@@ -59,15 +59,34 @@ There are two types of data that can be retrieved using a data feed: active data
 
 * TrailerAttachment
 
+* Trailer
+
 * IoxAddOn
 
 * CustomData
+
+* Device
+
+* TextMessage
+
 
 **Calculated data feeds** (new and updated data)
 
 * Trip
 
 * Exception Event
+
+* Zone
+
+* User
+
+* Rule
+
+* Route
+
+* DriverChange
+
+* Audit
 
 ## Invalidated Data
 
